@@ -1,0 +1,48 @@
+body {
+  background: #13abc4;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.main {
+  position: relative;
+}
+
+.cloudsBg {
+  position: relative;
+  background-image: url("../images/cloud-example.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+}
+
+.mountainImg {
+  position: absolute;
+  top: 30vh;
+}
+
+.transparentPic {
+  width: 100%;
+}
+
+.titleText {
+  text-align: center;
+  color: #113f67;
+  padding-top: 5%;
+}
+
+.titleText p {
+  font-size: 20px;
+}
